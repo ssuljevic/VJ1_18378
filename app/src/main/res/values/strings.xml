@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VJ-18378</string>
+    <string name="hint">Unesite ime filma</string>
+    <string name="buttonText">Search</string>
+</resources>
